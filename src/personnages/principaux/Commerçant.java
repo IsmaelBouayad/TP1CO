@@ -17,3 +17,4 @@ public class Commerçant extends Humain {
 		this.gagnerArgent(n);
 	}
 }
+
